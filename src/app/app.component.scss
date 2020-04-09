@@ -1,0 +1,46 @@
+.itemAdd {
+    width: 150px;
+    height: 300px;
+    float: left;
+}
+.invList{
+    float: right;
+    width: 360px;
+    margin-top: 365px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    -ms-flex-align: start;
+}
+.InvGroup {
+    width: 100%;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: row;
+}
+.InvGroup:first-child 
+{
+    margin-top: 3px;
+}
+.itemImage {
+    width: 46px;
+    height: 44px;
+}
+.itemList {
+    width: 45.5px;
+    height: 44px;
+    margin-left: 3.8px;
+}
+body .ui-overlaypanel {
+    background-color: black !important;
+    width: 200px;
+    height: 150px;
+}
+.topDetails {
+    text-align: center;
+    color: #C87CC7;
+}
+.middleDetails{
+    margin-top: 3px;
+}

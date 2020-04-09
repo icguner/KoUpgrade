@@ -1,0 +1,11 @@
+@import url(../node_modules/primeng/resources/themes/nova-light/theme.css);
+@import url(../node_modules/primeicons/primeicons.css);
+@import url(../node_modules/primeng/resources/primeng.min.css);
+* {
+  box-sizing: unset;
+}
+body {
+  background-image: url("assets/bg_img.png");
+  background-repeat: no-repeat;
+  background-size: 1880px 1000px;
+}

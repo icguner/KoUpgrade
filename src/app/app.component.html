@@ -1,0 +1,43 @@
+<script src="https://kit.fontawesome.com/55d3eb70a8.js" crossorigin="anonymous"></script>
+
+<div class="container">
+  <div class="itemAdd">
+    <p-dropdown [options]="ItemLevel" (ngModelChange)="onSelectLevel($event)" [(ngModel)]="SelectedLevel" optionLabel="LevelName" [style]="{'width':'20px'}"></p-dropdown>
+    <p-dropdown [options]="ItemNames" (ngModelChange)="onSelectItem($event)" [(ngModel)]="selectedItems" optionLabel="Name" [style]="{'width':'150px'}" filter="true"></p-dropdown>
+    <button (click)="onClickMe()">Click me!</button>
+    <button (click)="TestClickMe()">Test!</button>
+  </div>
+  <div class="invList">
+    <div class="InvGroup">
+      <div pDraggable="dd" *ngFor="let item of InvList | slice:0:7; let i = index"  class="itemList">
+        <p-overlayPanel #op>
+          <div class="topDetails"><span>{{item.Name}}</span><span> (+{{item.ItemLevelz}})</span><br>
+          <span style="margin-top: 1px;">(Upgrade Item)</span><br>
+          <span style="color: white;">{{item.ItemTypeName}}</span>
+          </div>
+          <div class="middleDetails">
+          <span>Attack Power : </span><span>{{item.Attack}}</span>
+          </div>
+          
+      </p-overlayPanel>
+        <img class="itemImage"  (mouseover)="op.show($event)" (mouseout)="op.hide()" src="../assets/itemIcons/{{item.Image}}.png">
+      </div>
+    </div>
+    <div class="InvGroup">
+      <div *ngFor="let item of InvList | slice:7:14; let i = index" class="itemList">
+        <img class="itemImage" src="../assets/itemIcons/{{item.Image}}.png">
+      </div>
+    </div>
+    <div class="InvGroup">
+      <div *ngFor="let item of InvList | slice:14:21; let i = index" class="itemList">
+        <img class="itemImage" src="../assets/itemIcons/{{item.Image}}.png">
+      </div>
+    </div>
+    <div class="InvGroup">
+      <div *ngFor="let item of InvList | slice:21:28; let i = index" class="itemList">
+        <img class="itemImage" src="../assets/itemIcons/{{item.Image}}.png">
+      </div>
+    </div>
+</div>
+</div>
+<router-outlet></router-outlet>

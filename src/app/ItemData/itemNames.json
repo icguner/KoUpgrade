@@ -1,0 +1,1266 @@
+[
+    {
+        "ID": 99900000,
+        "Name": "İtem Seçimi"
+    },
+    {
+     "ID": 1012000002,
+     "Name": "Raptor"
+    },
+    {
+     "ID": 1012000003,
+     "Name": "Shard"
+    },
+    {
+     "ID": 1011000004,
+     "Name": "Dagger"
+    },
+    {
+     "ID": 1011000005,
+     "Name": "Fine Yard"
+    },
+    {
+     "ID": 1011000006,
+     "Name": "Knife"
+    },
+    {
+     "ID": 1011000007,
+     "Name": "Dirk"
+    },
+    {
+     "ID": 1011000008,
+     "Name": "Stiletto"
+    },
+    {
+     "ID": 1011000009,
+     "Name": "Mail breaker"
+    },
+    {
+     "ID": 1011000010,
+     "Name": "Assassin Dagger"
+    },
+    {
+     "ID": 1011000011,
+     "Name": "Sword breaker"
+    },
+    {
+     "ID": 1011000012,
+     "Name": "Kukry"
+    },
+    {
+     "ID": 1011000013,
+     "Name": "Cleaver"
+    },
+    {
+     "ID": 1011000014,
+     "Name": "Two-Handed Sword"
+    },
+    {
+     "ID": 1011000015,
+     "Name": "Maul"
+    },
+    {
+     "ID": 1011000016,
+     "Name": "Bow"
+    },
+    {
+     "ID": 1011000017,
+     "Name": "Crossbow"
+    },
+    {
+     "ID": 1011000018,
+     "Name": "Horn Crossbow"
+    },
+    {
+     "ID": 1011000019,
+     "Name": "Wood Staff"
+    },
+    {
+     "ID": 1012000020,
+     "Name": "Mirage Dagger"
+    },
+    {
+     "ID": 1013000021,
+     "Name": "Dark Vane"
+    },
+    {
+     "ID": 1013000022,
+     "Name": "Cold-Hearted Dagger"
+    },
+    {
+     "ID": 1013000023,
+     "Name": "Sherion"
+    },
+    {
+     "ID": 1012000024,
+     "Name": "Mirage"
+    },
+    {
+     "ID": 1013000025,
+     "Name": "Undefeatable Wirinom"
+    },
+    {
+     "ID": 1013000026,
+     "Name": "Weak Dwarf Wirinom"
+    },
+    {
+     "ID": 1013000027,
+     "Name": "Chaos Wirinom"
+    },
+    {
+     "ID": 1013000028,
+     "Name": "Sweet Kiss Wirinom"
+    },
+    {
+     "ID": 1013000029,
+     "Name": "Undefeatable Raum"
+    },
+    {
+     "ID": 1013000030,
+     "Name": "Raum on Severe Diet"
+    },
+    {
+     "ID": 1013000031,
+     "Name": "Weak Dwarf Raum"
+    },
+    {
+     "ID": 1013000032,
+     "Name": "Lousy Pickpocket Raum"
+    },
+    {
+     "ID": 1013000033,
+     "Name": "Hanguk Sword"
+    },
+    {
+     "ID": 1012000034,
+     "Name": "Deep Scar"
+    },
+    {
+     "ID": 1012000035,
+     "Name": "Blade Axe"
+    },
+    {
+     "ID": 1013000036,
+     "Name": "Avedon"
+    },
+    {
+     "ID": 1013000037,
+     "Name": "Undefeatable Baal"
+    },
+    {
+     "ID": 1013000038,
+     "Name": "Weak Dwarf Baal"
+    },
+    {
+     "ID": 1013000039,
+     "Name": "Chaos Baal"
+    },
+    {
+     "ID": 1013000040,
+     "Name": "Sweet Kiss Baal"
+    },
+    {
+     "ID": 1012000041,
+     "Name": "Impact"
+    },
+    {
+     "ID": 1012000042,
+     "Name": "Iron Impact"
+    },
+    {
+     "ID": 1013000043,
+     "Name": "Hell Breaker"
+    },
+    {
+     "ID": 1012000044,
+     "Name": "Glave"
+    },
+    {
+     "ID": 1013000045,
+     "Name": "Lugias"
+    },
+    {
+     "ID": 1013000046,
+     "Name": "Spear of Murky Waters"
+    },
+    {
+     "ID": 1013000047,
+     "Name": "Undefeatable Nebiros"
+    },
+    {
+     "ID": 1013000048,
+     "Name": "Weak Dwarf Nebiros"
+    },
+    {
+     "ID": 1013000049,
+     "Name": "Chaos Nebiros"
+    },
+    {
+     "ID": 1013000050,
+     "Name": "Sweet Kiss Nebiros"
+    },
+    {
+     "ID": 1012000051,
+     "Name": "Iron Bow"
+    },
+    {
+     "ID": 1013000052,
+     "Name": "Enion Bow"
+    },
+    {
+     "ID": 1013000053,
+     "Name": "Helenid"
+    },
+    {
+     "ID": 1013000054,
+     "Name": "Eagle's Eye"
+    },
+    {
+     "ID": 1013000055,
+     "Name": "Chitin Shield"
+    },
+    {
+     "ID": 1013000056,
+     "Name": "Defender of the Lord"
+    },
+    {
+     "ID": 1013000057,
+     "Name": "Syphioric"
+    },
+    {
+     "ID": 1013000058,
+     "Name": "Undefeatable Windforce"
+    },
+    {
+     "ID": 1013000059,
+     "Name": "Windforce on Severe Diet"
+    },
+    {
+     "ID": 1013000060,
+     "Name": "Warm Downpour Windforce "
+    },
+    {
+     "ID": 1013000061,
+     "Name": "Weak Dwarf Windforce "
+    },
+    {
+     "ID": 1013000062,
+     "Name": "Lousy Pickpocket Windforce "
+    },
+    {
+     "ID": 1012000063,
+     "Name": "Elixir Staff"
+    },
+    {
+     "ID": 1013000064,
+     "Name": "Undefeatable Fulitol"
+    },
+    {
+     "ID": 1013000065,
+     "Name": "Trainer Kate Fulitol"
+    },
+    {
+     "ID": 1013000066,
+     "Name": "Aztec Gold Fulitol"
+    },
+    {
+     "ID": 1013000067,
+     "Name": "Aztec Gold Molok"
+    },
+    {
+     "ID": 1013000068,
+     "Name": "Undefeatable Molok"
+    },
+    {
+     "ID": 1013000069,
+     "Name": "Trainer Kate Molok"
+    },
+    {
+     "ID": 1013000070,
+     "Name": "Undefeatable Faun"
+    },
+    {
+     "ID": 1013000071,
+     "Name": "Trainer Kate Faun"
+    },
+    {
+     "ID": 1013000072,
+     "Name": "Aztec Gold Faun"
+    },
+    {
+     "ID": 1013000073,
+     "Name": "Wrath of Erenion"
+    },
+    {
+     "ID": 1013000074,
+     "Name": "Oasis Staff"
+    },
+    {
+     "ID": 1013000075,
+     "Name": "Glacier Erenion"
+    },
+    {
+     "ID": 1013000076,
+     "Name": "Chaotic Staff"
+    },
+    {
+     "ID": 1013000077,
+     "Name": "Lightning Erenion"
+    },
+    {
+     "ID": 1013000078,
+     "Name": "Scorching Staff"
+    },
+    {
+     "ID": 1013000079,
+     "Name": "Ron's Staff"
+    },
+    {
+     "ID": 1013000080,
+     "Name": "Hell Blood"
+    },
+    {
+     "ID": 1013000081,
+     "Name": "Garp"
+    },
+    {
+     "ID": 1013000082,
+     "Name": "Elysium"
+    },
+    {
+     "ID": 1013000083,
+     "Name": "Gab's Adamant"
+    },
+    {
+     "ID": 1013000084,
+     "Name": "Gab's Blessing"
+    },
+    {
+     "ID": 1013000085,
+     "Name": "Undefeatable Leonard"
+    },
+    {
+     "ID": 1013000086,
+     "Name": "Weak Dwarf Leonard"
+    },
+    {
+     "ID": 1013000087,
+     "Name": "Mean Leonard"
+    },
+    {
+     "ID": 1013000088,
+     "Name": "Smite Hammer"
+    },
+    {
+     "ID": 1013000089,
+     "Name": "Stone Splitter"
+    },
+    {
+     "ID": 1013000090,
+     "Name": "Holy Animor"
+    },
+    {
+     "ID": 1011000091,
+     "Name": "Quilted Pauldron"
+    },
+    {
+     "ID": 1011000092,
+     "Name": "Leather Pads"
+    },
+    {
+     "ID": 1011000093,
+     "Name": "Leather Cap"
+    },
+    {
+     "ID": 1011000094,
+     "Name": "Leather Gloves"
+    },
+    {
+     "ID": 1011000095,
+     "Name": "Leather Shoes"
+    },
+    {
+     "ID": 1011000096,
+     "Name": "Rogue Shirt"
+    },
+    {
+     "ID": 1011000097,
+     "Name": "Rogue Pads"
+    },
+    {
+     "ID": 1011000098,
+     "Name": "Rogue Cap"
+    },
+    {
+     "ID": 1011000099,
+     "Name": "Rogue Gloves"
+    },
+    {
+     "ID": 1011000100,
+     "Name": "Rogue Shoes"
+    },
+    {
+     "ID": 1011000101,
+     "Name": "Mage Cotton Robe"
+    },
+    {
+     "ID": 1011000102,
+     "Name": "Mage Cloth Pants"
+    },
+    {
+     "ID": 1011000103,
+     "Name": "Mage Hat"
+    },
+    {
+     "ID": 1011000104,
+     "Name": "Mage Gloves"
+    },
+    {
+     "ID": 1011000105,
+     "Name": "Mage Shoes"
+    },
+    {
+     "ID": 1011000106,
+     "Name": "Fabric Coat"
+    },
+    {
+     "ID": 1011000107,
+     "Name": "Fabric Pants"
+    },
+    {
+     "ID": 1011000108,
+     "Name": "Priest Cap"
+    },
+    {
+     "ID": 1011000109,
+     "Name": "Priest Gloves"
+    },
+    {
+     "ID": 1011000110,
+     "Name": "Priest Shoes"
+    },
+    {
+     "ID": 1011000111,
+     "Name": "Half Plate Pauldron"
+    },
+    {
+     "ID": 1011000112,
+     "Name": "Half Plate Pads"
+    },
+    {
+     "ID": 1011000113,
+     "Name": "Half Plate Helmet"
+    },
+    {
+     "ID": 1011000114,
+     "Name": "Half Plate Gauntlet"
+    },
+    {
+     "ID": 1011000115,
+     "Name": "Half Plate Boots"
+    },
+    {
+     "ID": 1011000116,
+     "Name": "Rogue Half Plate Pauldron"
+    },
+    {
+     "ID": 1011000117,
+     "Name": "Rogue Half Plate Pads"
+    },
+    {
+     "ID": 1011000118,
+     "Name": "Rogue Helmet"
+    },
+    {
+     "ID": 1011000119,
+     "Name": "Rogue Gauntlet"
+    },
+    {
+     "ID": 1011000120,
+     "Name": "Rogue Boots"
+    },
+    {
+     "ID": 1011000121,
+     "Name": "Mage Linen Robe"
+    },
+    {
+     "ID": 1011000122,
+     "Name": "Mage Linen Pants"
+    },
+    {
+     "ID": 1011000123,
+     "Name": "Mage Linen Cap"
+    },
+    {
+     "ID": 1011000124,
+     "Name": "Mage Leather Gloves"
+    },
+    {
+     "ID": 1011000125,
+     "Name": "Mage Leather Boots"
+    },
+    {
+     "ID": 1011000126,
+     "Name": "Silk Coat"
+    },
+    {
+     "ID": 1011000127,
+     "Name": "Silk Pants"
+    },
+    {
+     "ID": 1011000128,
+     "Name": "Priest Helmet"
+    },
+    {
+     "ID": 1011000129,
+     "Name": "Priest Gauntlet"
+    },
+    {
+     "ID": 1011000130,
+     "Name": "Priest Boots"
+    },
+    {
+     "ID": 1011000131,
+     "Name": "Plate Armor Pauldron"
+    },
+    {
+     "ID": 1011000132,
+     "Name": "Plate Armor Pads"
+    },
+    {
+     "ID": 1011000133,
+     "Name": "Plate Armor Helmet"
+    },
+    {
+     "ID": 1011000134,
+     "Name": "Plate Armor Gauntlet"
+    },
+    {
+     "ID": 1011000135,
+     "Name": "Plate Armor Boots"
+    },
+    {
+     "ID": 1011000136,
+     "Name": "Rogue Plate Armor Pauldron"
+    },
+    {
+     "ID": 1011000137,
+     "Name": "Rogue Plate Armor Pads"
+    },
+    {
+     "ID": 1011000138,
+     "Name": "Rogue Plate Helmet"
+    },
+    {
+     "ID": 1011000139,
+     "Name": "Rogue Plate Gauntlet"
+    },
+    {
+     "ID": 1011000140,
+     "Name": "Rogue Plate Boots"
+    },
+    {
+     "ID": 1011000141,
+     "Name": "Mage Silk Robe"
+    },
+    {
+     "ID": 1011000142,
+     "Name": "Mage Silk Pants"
+    },
+    {
+     "ID": 1011000143,
+     "Name": "Mage Helmet"
+    },
+    {
+     "ID": 1011000144,
+     "Name": "Mage Hard Leather Gloves"
+    },
+    {
+     "ID": 1011000145,
+     "Name": "Mage Hard Leather Boots"
+    },
+    {
+     "ID": 1011000146,
+     "Name": "Priest Plate Pauldron"
+    },
+    {
+     "ID": 1011000147,
+     "Name": "Priest Plate Pads"
+    },
+    {
+     "ID": 1011000148,
+     "Name": "Priest Plate Helmet"
+    },
+    {
+     "ID": 1011000149,
+     "Name": "Priest Plate Gauntlet"
+    },
+    {
+     "ID": 1011000150,
+     "Name": "Priest Plate Boots"
+    },
+    {
+     "ID": 1011000151,
+     "Name": "Full Plate Armor Pauldron"
+    },
+    {
+     "ID": 1011000152,
+     "Name": "Full Plate Armor Pads"
+    },
+    {
+     "ID": 1011000153,
+     "Name": "Full Plate Armor Helmet"
+    },
+    {
+     "ID": 1011000154,
+     "Name": "Full Plate Armor Gauntlet"
+    },
+    {
+     "ID": 1011000155,
+     "Name": "Full Plate Armor Boots"
+    },
+    {
+     "ID": 1011000156,
+     "Name": "Rogue Full Plate Armor Pauldron"
+    },
+    {
+     "ID": 1011000157,
+     "Name": "Rogue Full Plate Armor Pads"
+    },
+    {
+     "ID": 1011000158,
+     "Name": "Rogue Full Plate Armor Helmet"
+    },
+    {
+     "ID": 1011000159,
+     "Name": "Rogue Full Plate Armor Gauntlet"
+    },
+    {
+     "ID": 1011000160,
+     "Name": "Rogue Full Plate Armor Boots"
+    },
+    {
+     "ID": 1011000161,
+     "Name": "Priest Full Plate Armor Pauldron"
+    },
+    {
+     "ID": 1011000162,
+     "Name": "Priest Full Plate Armor Pads"
+    },
+    {
+     "ID": 1011000163,
+     "Name": "Priest Full Plate Armor Helmet"
+    },
+    {
+     "ID": 1011000164,
+     "Name": "Priest Full Plate Armor Gauntlet"
+    },
+    {
+     "ID": 1011000165,
+     "Name": "Priest Full Plate Armor Boots"
+    },
+    {
+     "ID": 1011000166,
+     "Name": "Crystal Robe"
+    },
+    {
+     "ID": 1011000167,
+     "Name": "Crystal Pants"
+    },
+    {
+     "ID": 1011000168,
+     "Name": "Crystal Helmet"
+    },
+    {
+     "ID": 1011000169,
+     "Name": "Crystal Gloves"
+    },
+    {
+     "ID": 1011000170,
+     "Name": "Crystal Boots"
+    },
+    {
+     "ID": 1012000171,
+     "Name": "Chitin Armor Pauldron"
+    },
+    {
+     "ID": 1012000172,
+     "Name": "Chitin Armor Pads"
+    },
+    {
+     "ID": 1012000173,
+     "Name": "Chitin Helmet"
+    },
+    {
+     "ID": 1012000174,
+     "Name": "Chitin Gauntlets"
+    },
+    {
+     "ID": 1012000175,
+     "Name": "Chitin Boots"
+    },
+    {
+     "ID": 1012000176,
+     "Name": "Rogue Chitin Armor Pauldron"
+    },
+    {
+     "ID": 1012000177,
+     "Name": "Rogue Chitin Armor Pads"
+    },
+    {
+     "ID": 1012000178,
+     "Name": "Rogue Chitin Helmet"
+    },
+    {
+     "ID": 1012000179,
+     "Name": "Rogue Chitin Gauntlets"
+    },
+    {
+     "ID": 1012000180,
+     "Name": "Rogue Chitin Boots"
+    },
+    {
+     "ID": 1012000181,
+     "Name": "Priest Chitin Armor Pauldron"
+    },
+    {
+     "ID": 1012000182,
+     "Name": "Priest Chitin Armor Pads"
+    },
+    {
+     "ID": 1012000183,
+     "Name": "Priest Chitin Helmet"
+    },
+    {
+     "ID": 1012000184,
+     "Name": "Priest Chitin Gauntlets"
+    },
+    {
+     "ID": 1012000185,
+     "Name": "Priest Chitin Boots"
+    },
+    {
+     "ID": 1012000186,
+     "Name": "Crimson Robe"
+    },
+    {
+     "ID": 1012000187,
+     "Name": "Crimson Pants"
+    },
+    {
+     "ID": 1012000188,
+     "Name": "Crimson Helmet"
+    },
+    {
+     "ID": 1012000189,
+     "Name": "Crimson Gloves"
+    },
+    {
+     "ID": 1012000190,
+     "Name": "Crimson Boots"
+    },
+    {
+     "ID": 1012000191,
+     "Name": "Chitin Shell Pauldron"
+    },
+    {
+     "ID": 1012000192,
+     "Name": "Chitin Shell Pads"
+    },
+    {
+     "ID": 1012000193,
+     "Name": "Chitin Shell Helmet"
+    },
+    {
+     "ID": 1012000194,
+     "Name": "Chitin Shell Gauntlets"
+    },
+    {
+     "ID": 1012000195,
+     "Name": "Chitin Shell Boots"
+    },
+    {
+     "ID": 1012000196,
+     "Name": "Rogue Chitin Shell Pauldron"
+    },
+    {
+     "ID": 1012000197,
+     "Name": "Rogue Chitin Shell Pads"
+    },
+    {
+     "ID": 1012000198,
+     "Name": "Rogue Chitin Shell Helmet"
+    },
+    {
+     "ID": 1012000199,
+     "Name": "Rogue Chitin Shell Gauntlets"
+    },
+    {
+     "ID": 1012000200,
+     "Name": "Rogue Chitin Shell Boots"
+    },
+    {
+     "ID": 1012000201,
+     "Name": "Priest Chitin Shell Pauldron"
+    },
+    {
+     "ID": 1012000202,
+     "Name": "Priest Chitin Shell Pads"
+    },
+    {
+     "ID": 1012000203,
+     "Name": "Priest Chitin Shell Helmet"
+    },
+    {
+     "ID": 1012000204,
+     "Name": "Priest Chitin Shell Gauntlets"
+    },
+    {
+     "ID": 1012000205,
+     "Name": "Priest Chitin Shell Boots"
+    },
+    {
+     "ID": 1012000206,
+     "Name": "Complete Robe"
+    },
+    {
+     "ID": 1012000207,
+     "Name": "Complete Pants"
+    },
+    {
+     "ID": 1012000208,
+     "Name": "Complete Helmet"
+    },
+    {
+     "ID": 1012000209,
+     "Name": "Complete Glove"
+    },
+    {
+     "ID": 1012000210,
+     "Name": "Complete Boots"
+    },
+    {
+     "ID": 1014000211,
+     "Name": "Krowaz Warrior Upper Garment"
+    },
+    {
+     "ID": 1014000212,
+     "Name": "Krowaz Warrior Lower Garment"
+    },
+    {
+     "ID": 1014000213,
+     "Name": "Krowaz Warrior Helmet"
+    },
+    {
+     "ID": 1014000214,
+     "Name": "Krowaz Warrior Gauntlets"
+    },
+    {
+     "ID": 1014000215,
+     "Name": "Krowaz Warrior Boots"
+    },
+    {
+     "ID": 1014000216,
+     "Name": "Krowaz Assassin Upper Garment"
+    },
+    {
+     "ID": 1014000217,
+     "Name": "Krowaz Assassin Lower Garment"
+    },
+    {
+     "ID": 1014000218,
+     "Name": "Krowaz Assassin Helmet"
+    },
+    {
+     "ID": 1014000219,
+     "Name": "Krowaz Assassin Gauntlets"
+    },
+    {
+     "ID": 1014000220,
+     "Name": "Krowaz Assassin Boots"
+    },
+    {
+     "ID": 1014000221,
+     "Name": "Krowaz Priest Upper Garment"
+    },
+    {
+     "ID": 1014000222,
+     "Name": "Krowaz Priest Lower Garment"
+    },
+    {
+     "ID": 1014000223,
+     "Name": "Krowaz Priest Helmet"
+    },
+    {
+     "ID": 1014000224,
+     "Name": "Krowaz Priest Gauntlet"
+    },
+    {
+     "ID": 1014000225,
+     "Name": "Krowaz Priest Boots"
+    },
+    {
+     "ID": 1014000226,
+     "Name": "Krowaz Mage Robe"
+    },
+    {
+     "ID": 1014000227,
+     "Name": "Krowaz Mage Pants"
+    },
+    {
+     "ID": 1014000228,
+     "Name": "Krowaz Mage Helmet"
+    },
+    {
+     "ID": 1014000229,
+     "Name": "Krowaz Mage Gauntlets"
+    },
+    {
+     "ID": 1014000230,
+     "Name": "Krowaz Mage Boots"
+    },
+    {
+     "ID": 1014000231,
+     "Name": "Secret Warrior Top"
+    },
+    {
+     "ID": 1014000232,
+     "Name": "Secret Warrior Bottom"
+    },
+    {
+     "ID": 1014000233,
+     "Name": "Secret Warrior Helmet"
+    },
+    {
+     "ID": 1014000234,
+     "Name": "Secret Warrior Gauntlet"
+    },
+    {
+     "ID": 1014000235,
+     "Name": "Secret Warrior Boot"
+    },
+    {
+     "ID": 1014000236,
+     "Name": "Secret Assassin Top"
+    },
+    {
+     "ID": 1014000237,
+     "Name": "Secret Assassin Bottom"
+    },
+    {
+     "ID": 1014000238,
+     "Name": "Secret Assassin Helmet"
+    },
+    {
+     "ID": 1014000239,
+     "Name": "Secret Assassin Gauntlet"
+    },
+    {
+     "ID": 1014000240,
+     "Name": "Secret Assassin Boot"
+    },
+    {
+     "ID": 1014000241,
+     "Name": "Secret Mage Robe"
+    },
+    {
+     "ID": 1014000242,
+     "Name": "Secret Mage Pants"
+    },
+    {
+     "ID": 1014000243,
+     "Name": "Secret Mage Helmet"
+    },
+    {
+     "ID": 1014000244,
+     "Name": "Secret Mage Grove"
+    },
+    {
+     "ID": 1014000245,
+     "Name": "Secret Mage Boot"
+    },
+    {
+     "ID": 1014000246,
+     "Name": "Secret Priest Top"
+    },
+    {
+     "ID": 1014000247,
+     "Name": "Secret Priest Bottom"
+    },
+    {
+     "ID": 1014000248,
+     "Name": "Secret Priest Helmet"
+    },
+    {
+     "ID": 1014000249,
+     "Name": "Secret Priest Gauntlet"
+    },
+    {
+     "ID": 1014000250,
+     "Name": "Secret Priest Boot"
+    },
+    {
+     "ID": 1014000251,
+     "Name": " Dragon Scale Armor Top"
+    },
+    {
+     "ID": 1014000252,
+     "Name": "Dragon Scale Armor Pants"
+    },
+    {
+     "ID": 1014000253,
+     "Name": "Dragon Scale Helmet"
+    },
+    {
+     "ID": 1014000254,
+     "Name": "Dragon Scale Gauntlet"
+    },
+    {
+     "ID": 1014000255,
+     "Name": "Dragon Scale Boots"
+    },
+    {
+     "ID": 1014000256,
+     "Name": "Mythril Pauldron"
+    },
+    {
+     "ID": 1014000257,
+     "Name": "Mythril Pad"
+    },
+    {
+     "ID": 1014000258,
+     "Name": "Mythril Helmet"
+    },
+    {
+     "ID": 1014000259,
+     "Name": "Mythril Gauntlet"
+    },
+    {
+     "ID": 1014000260,
+     "Name": "Mythril Boots"
+    },
+    {
+     "ID": 1014000261,
+     "Name": "Ron's Robe"
+    },
+    {
+     "ID": 1014000262,
+     "Name": "Ron's Pants"
+    },
+    {
+     "ID": 1014000263,
+     "Name": "Ron's Helmet"
+    },
+    {
+     "ID": 1014000264,
+     "Name": "Ron's Gloves"
+    },
+    {
+     "ID": 1014000265,
+     "Name": "Ron's Boots"
+    },
+    {
+     "ID": 1014000266,
+     "Name": "Pauldron of Trial"
+    },
+    {
+     "ID": 1014000267,
+     "Name": "Pads of Trial"
+    },
+    {
+     "ID": 1014000268,
+     "Name": "Helmet of Trial"
+    },
+    {
+     "ID": 1014000269,
+     "Name": "Gauntlet of Trial"
+    },
+    {
+     "ID": 1014000270,
+     "Name": "Boots of Trial"
+    },
+    {
+     "ID": 1012000271,
+     "Name": "Totamic Spear"
+    },
+    {
+     "ID": 1013000272,
+     "Name": "Dread Shield"
+    },
+    {
+     "ID": 1013000273,
+     "Name": "Lobo Staff"
+    },
+    {
+     "ID": 1013000274,
+     "Name": "Lupus Staff"
+    },
+    {
+     "ID": 1013000275,
+     "Name": "Lycaon Staff"
+    },
+    {
+     "ID": 1013000276,
+     "Name": "Lobo Hammer"
+    },
+    {
+     "ID": 1013000277,
+     "Name": "Lupus Hammer"
+    },
+    {
+     "ID": 1013000278,
+     "Name": "Lycaon Hammer"
+    },
+    {
+     "ID": 1013000279,
+     "Name": "Scorpion Shield"
+    },
+    {
+     "ID": 1013000280,
+     "Name": "KnightAnvil's Moonlight"
+    },
+    {
+     "ID": 1013000281,
+     "Name": "KnightAnvil's Azagai"
+    },
+    {
+     "ID": 1013000282,
+     "Name": "KnightAnvil Fire Codex Gigas"
+    },
+    {
+     "ID": 1013000283,
+     "Name": "KnightAnvil Ice Codex Gigas"
+    },
+    {
+     "ID": 1013000284,
+     "Name": "KnightAnvil Lightning Codex Gigas"
+    },
+    {
+     "ID": 1013000285,
+     "Name": "KnightAnvil's Adaga"
+    },
+    {
+     "ID": 1013000286,
+     "Name": "KnightAnvil's Khanjar"
+    },
+    {
+     "ID": 1013000287,
+     "Name": "KnightAnvil's Buju Polearm"
+    },
+    {
+     "ID": 1013000288,
+     "Name": "KnightAnvil's Ruahue"
+    },
+    {
+     "ID": 1011000289,
+     "Name": "Destroyer"
+    },
+    {
+     "ID": 1011000290,
+     "Name": "Bardish"
+    },
+    {
+     "ID": 1012000291,
+     "Name": "Iron Crossbow"
+    },
+    {
+     "ID": 1012000292,
+     "Name": "Weapon Breaker"
+    },
+    {
+     "ID": 1013000293,
+     "Name": "Giantic Axe"
+    },
+    {
+     "ID": 1013000294,
+     "Name": "Chitin Bow"
+    },
+    {
+     "ID": 1013000295,
+     "Name": "Scorpion Bow"
+    },
+    {
+     "ID": 1013000296,
+     "Name": "Dagger of KnightAnvil"
+    },
+    {
+     "ID": 1013000297,
+     "Name": "Two-Handed Sword of KnightAnvil"
+    },
+    {
+     "ID": 1013000298,
+     "Name": "Spear of KnightAnvil"
+    },
+    {
+     "ID": 1013000299,
+     "Name": "Bow of KnightAnvil"
+    },
+    {
+     "ID": 1013000300,
+     "Name": "Staff of KnightAnvil"
+    },
+    {
+     "ID": 1013000301,
+     "Name": "Pole of KnightAnvil"
+    },
+    {
+     "ID": 1013000302,
+     "Name": "Mace of KnightAnvil"
+    },
+    {
+     "ID": 1013000303,
+     "Name": "Shield of KnightAnvil"
+    },
+    {
+     "ID": 1011000304,
+     "Name": "Short Blade"
+    },
+    {
+     "ID": 1011000305,
+     "Name": "Long Sword"
+    },
+    {
+     "ID": 1011000306,
+     "Name": "Scimitar"
+    },
+    {
+     "ID": 1011000307,
+     "Name": "Flame Sword"
+    },
+    {
+     "ID": 1011000308,
+     "Name": "Rapier"
+    },
+    {
+     "ID": 1011000309,
+     "Name": "Gradius"
+    },
+    {
+     "ID": 1011000310,
+     "Name": "Combined Blade"
+    },
+    {
+     "ID": 1011000311,
+     "Name": "Battle Sword"
+    },
+    {
+     "ID": 1011000312,
+     "Name": "Great Sword"
+    },
+    {
+     "ID": 1011000313,
+     "Name": "Claymore"
+    },
+    {
+     "ID": 1011000314,
+     "Name": "Flamberge"
+    },
+    {
+     "ID": 1011000315,
+     "Name": "Hand Axe"
+    },
+    {
+     "ID": 1012000316,
+     "Name": "Priest Impact"
+    }
+   ]
